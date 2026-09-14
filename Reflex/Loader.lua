@@ -1,6 +1,6 @@
 -- // Loader \\ 
 
-local GAS_URL = "https://script.google.com/macros/s/AKfycbxTH5S118C2XlqgbL73O9wLXTTFVlqKjw86lg4_71CeZ-6ex8hYSPRAth3Xre2k2Q6R/exec"
+local GAS_URL = "https://script.google.com/macros/s/AKfycby86ag9eTVs5W2gIS4qRF2liRNYLuei2gYc6AxmB6yP237PtKaRzLQj8oLnfRfNp-CdjA/exec"
 
 local USER_KEY = getgenv().REFLEX_KEY or ""
 
