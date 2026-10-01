@@ -59,7 +59,7 @@
 
 
 getgenv().Key = ""
-local GAS_URL = "https://script.google.com/macros/s/AKfycbwOm2Cyo1Ks522ZwTkr31cvTG2VqOnxhgwgIvQkKChWqQ1q8gxm0CCdzzx9mdQ1r69F/exec"
+local GAS_URL = "https://script.google.com/macros/s/AKfycbxtNcniv6dyDxIXE2o1CCzUU42xumErX4JhG42_p-KnvJfikeWoUYmx3EdqO_5v9wP8/exec"
 
 local USER_KEY = getgenv().Key or ""
 
