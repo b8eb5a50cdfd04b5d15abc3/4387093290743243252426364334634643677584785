@@ -58,7 +58,7 @@
 --]]
 
 
-getgenv().Key = ""
+getgenv().Key = "%tQ:{07B'F"
 local GAS_URL = "https://script.google.com/macros/s/AKfycbxtNcniv6dyDxIXE2o1CCzUU42xumErX4JhG42_p-KnvJfikeWoUYmx3EdqO_5v9wP8/exec"
 
 local USER_KEY = getgenv().Key or ""
